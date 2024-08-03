@@ -1,0 +1,11 @@
+D:\PROASM\PROASM\bin\Debug\PROASM.exe.config
+D:\PROASM\PROASM\bin\Debug\PROASM.exe
+D:\PROASM\PROASM\bin\Debug\PROASM.pdb
+D:\PROASM\PROASM\obj\Debug\PROASM.csproj.AssemblyReference.cache
+D:\PROASM\PROASM\obj\Debug\PROASM.Form1.resources
+D:\PROASM\PROASM\obj\Debug\PROASM.Properties.Resources.resources
+D:\PROASM\PROASM\obj\Debug\PROASM.csproj.GenerateResource.cache
+D:\PROASM\PROASM\obj\Debug\PROASM.csproj.CoreCompileInputs.cache
+D:\PROASM\PROASM\obj\Debug\PROASM.exe
+D:\PROASM\PROASM\obj\Debug\PROASM.pdb
+D:\PROASM\PROASM\obj\Debug\PROASM.Form2.resources
